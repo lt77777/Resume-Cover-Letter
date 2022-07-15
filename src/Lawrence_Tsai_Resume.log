@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.6.22)  15 JUL 2022 00:28
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.6.22)  15 JUL 2022 00:39
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -302,8 +302,8 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 28.
 
-Overfull \hbox (6.15788pt too wide) in paragraph at lines 27--39
-[]$ []\OT1/cmr/m/n/8 L.Tsai@mail.utoronto.ca[]   []$[]$[]www.linkedin.com/in/lawtsai   []$[]$[]https://github.com/lt77777   []$[]$[]https://lt77777.github.io/ 
+Overfull \hbox (2.43422pt too wide) in paragraph at lines 27--39
+[]$ []\OT1/cmr/m/n/8 L.Tsai@mail.utoronto.ca[]   []$[]$[]www.linkedin.com/in/lawtsai   []$[]$[]https://github.com/lt77777   []$[]$[]https://lawrencetsai.me/ 
  []
 
 /Users/larrytsai/Repositories/Resume-Cover-Letter/src/Lawrence_Tsai_Resume.tex:44: Undefined control sequence.
@@ -453,7 +453,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  70i,9n,76p,646b,317s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb>
-Output written on Lawrence_Tsai_Resume.pdf (1 page, 84773 bytes).
+Output written on Lawrence_Tsai_Resume.pdf (1 page, 84784 bytes).
 PDF statistics:
  50 PDF objects out of 1000 (max. 8388607)
  36 compressed objects within 1 object stream

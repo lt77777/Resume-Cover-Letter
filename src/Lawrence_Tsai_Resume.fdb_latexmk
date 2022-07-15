@@ -1,6 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1657866495 "/Users/larrytsai/Repositories/Resume-Cover-Letter/src/Lawrence_Tsai_Resume.tex" "Lawrence_Tsai_Resume.pdf" "Lawrence_Tsai_Resume" 1657866495
-  "/Users/larrytsai/Repositories/Resume-Cover-Letter/src/Lawrence_Tsai_Resume.tex" 1657866495 9089 c66c8486db271fcbb047317a6da2b43a ""
+["pdflatex"] 1657867176 "/Users/larrytsai/Repositories/Resume-Cover-Letter/src/Lawrence_Tsai_Resume.tex" "Lawrence_Tsai_Resume.pdf" "Lawrence_Tsai_Resume" 1657867176
+  "/Users/larrytsai/Repositories/Resume-Cover-Letter/src/Lawrence_Tsai_Resume.tex" 1657867175 9085 eab9b72cec939f73680f48fb2ab2c3e8 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmbx8.tfm" 1136768653 1332 1fde11373e221473104d6cc5993f046e ""
@@ -72,9 +72,9 @@
   "/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1647878959 4410336 7d30a02e9fa9a16d7d1f8d037ba69641 ""
   "/usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1655933116 2826443 1b979fa955ec18bc3e2f12e8e3c20e4d ""
   "/usr/local/texlive/2022/texmf.cnf" 1647878952 577 209b46be99c9075fd74d4c0369380e8c ""
-  "Lawrence_Tsai_Resume.aux" 1657866495 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "Lawrence_Tsai_Resume.aux" 1657867176 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
   "Lawrence_Tsai_Resume.out" 0 -1 0 "pdflatex"
-  "Lawrence_Tsai_Resume.tex" 1657866495 9089 c66c8486db271fcbb047317a6da2b43a ""
+  "Lawrence_Tsai_Resume.tex" 1657867175 9085 eab9b72cec939f73680f48fb2ab2c3e8 ""
   "resume.cls" 1655995021 4800 7d0890dd8b770ce0426136049ebec6c1 ""
   (generated)
   "Lawrence_Tsai_Resume.aux"
