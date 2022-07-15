@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.6.22)  15 JUL 2022 00:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.6.22)  15 JUL 2022 01:07
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -339,11 +339,6 @@ Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-Underfull \hbox (badness 2351) in paragraph at lines 85--86
-\OT1/cmr/m/n/8 robotics, and \OT1/cmr/bx/n/8 CAD \OT1/cmr/m/n/8 to cre-ate af-ford-able and sus-tain-able with ap-plied Physics and ma-chine learn-ing.
- []
-
-
 /Users/larrytsai/Repositories/Resume-Cover-Letter/src/Lawrence_Tsai_Resume.tex:92: LaTeX Error: Something's wrong--perhaps a missing \item.
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -453,7 +448,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  70i,9n,76p,646b,317s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb>
-Output written on Lawrence_Tsai_Resume.pdf (1 page, 84784 bytes).
+Output written on Lawrence_Tsai_Resume.pdf (1 page, 84980 bytes).
 PDF statistics:
  50 PDF objects out of 1000 (max. 8388607)
  36 compressed objects within 1 object stream
