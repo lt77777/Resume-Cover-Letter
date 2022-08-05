@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.6.22)  5 AUG 2022 11:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.6.22)  5 AUG 2022 11:15
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -391,6 +391,7 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 65.
 LaTeX Info: Redefining \pageref on input line 65.
 LaTeX Info: Redefining \nameref on input line 65.
+ (./Lawrence_Tsai_Cover_Letter.out) (./Lawrence_Tsai_Cover_Letter.out)
 \@outlinefile=\write3
 \openout3 = `Lawrence_Tsai_Cover_Letter.out'.
 
@@ -439,16 +440,6 @@ Overfull \hbox (35.03752pt too wide) in paragraph at lines 70--87
  [][][] 
  []
 
-/Users/larrytsai/Repositories/Resume-Cover-Letter/src/Lawrence_Tsai_Cover_Letter.tex:122: Misplaced alignment tab character &.
-l.122            Computing &
-                             CAD) to optimize the performance and
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 4.08003pt, for example:
@@ -457,25 +448,19 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 [1
 
 {/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./Lawrence_Tsai_Cover_Letter.aux)
-
-Package rerunfilecheck Warning: File `Lawrence_Tsai_Cover_Letter.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `Lawrence_Tsai_Cover_Letter.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
+Package rerunfilecheck Info: File `Lawrence_Tsai_Cover_Letter.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 10958 strings out of 478268
- 173371 string characters out of 5846347
- 493586 words of memory out of 5000000
+ 10962 strings out of 478268
+ 173495 string characters out of 5846347
+ 493846 words of memory out of 5000000
  29050 multiletter control sequences out of 15000+600000
  470762 words of font info for 33 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  60i,11n,63p,293b,375s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on Lawrence_Tsai_Cover_Letter.pdf (1 page, 62286 bytes).
+Output written on Lawrence_Tsai_Cover_Letter.pdf (1 page, 62598 bytes).
 PDF statistics:
  38 PDF objects out of 1000 (max. 8388607)
  26 compressed objects within 1 object stream

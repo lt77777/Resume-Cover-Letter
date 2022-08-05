@@ -593,6 +593,16 @@ INPUT /usr/local/texlive/2022/texmf-dist/tex/generic/gettitlestring/gettitlestri
 INPUT /usr/local/texlive/2022/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 INPUT /usr/local/texlive/2022/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+INPUT ./Lawrence_Tsai_Cover_Letter.out
+INPUT Lawrence_Tsai_Cover_Letter.out
+INPUT ./Lawrence_Tsai_Cover_Letter.out
+INPUT Lawrence_Tsai_Cover_Letter.out
+INPUT ./Lawrence_Tsai_Cover_Letter.out
+INPUT Lawrence_Tsai_Cover_Letter.out
+INPUT ./Lawrence_Tsai_Cover_Letter.out
+INPUT Lawrence_Tsai_Cover_Letter.out
+INPUT ./Lawrence_Tsai_Cover_Letter.out
+INPUT ./Lawrence_Tsai_Cover_Letter.out
 OUTPUT Lawrence_Tsai_Cover_Letter.out
 OUTPUT Lawrence_Tsai_Cover_Letter.pdf
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
