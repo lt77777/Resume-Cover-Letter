@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.6.22)  30 SEP 2022 02:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.6.22)  30 SEP 2022 02:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -318,86 +318,86 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-/Users/larrytsai/Repositories/Resume-Cover-Letter/src/Lawrence_Tsai_Resume.tex:70: LaTeX Error: Something's wrong--perhaps a missing \item.
+/Users/larrytsai/Repositories/Resume-Cover-Letter/src/Lawrence_Tsai_Resume.tex:71: LaTeX Error: Something's wrong--perhaps a missing \item.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.70     \end{rSubsection}
+l.71     \end{rSubsection}
                           
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-/Users/larrytsai/Repositories/Resume-Cover-Letter/src/Lawrence_Tsai_Resume.tex:85: LaTeX Error: Something's wrong--perhaps a missing \item.
+/Users/larrytsai/Repositories/Resume-Cover-Letter/src/Lawrence_Tsai_Resume.tex:87: LaTeX Error: Something's wrong--perhaps a missing \item.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.85 \end{rSubsection}
+l.87 \end{rSubsection}
                       
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-/Users/larrytsai/Repositories/Resume-Cover-Letter/src/Lawrence_Tsai_Resume.tex:90: LaTeX Error: Something's wrong--perhaps a missing \item.
+/Users/larrytsai/Repositories/Resume-Cover-Letter/src/Lawrence_Tsai_Resume.tex:92: LaTeX Error: Something's wrong--perhaps a missing \item.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.90 \end{rSubsection}
+l.92 \end{rSubsection}
                       
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-/Users/larrytsai/Repositories/Resume-Cover-Letter/src/Lawrence_Tsai_Resume.tex:95: LaTeX Error: Something's wrong--perhaps a missing \item.
+/Users/larrytsai/Repositories/Resume-Cover-Letter/src/Lawrence_Tsai_Resume.tex:97: LaTeX Error: Something's wrong--perhaps a missing \item.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.95 \end{rSubsection}
+l.97 \end{rSubsection}
                       
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-/Users/larrytsai/Repositories/Resume-Cover-Letter/src/Lawrence_Tsai_Resume.tex:108: LaTeX Error: Something's wrong--perhaps a missing \item.
+/Users/larrytsai/Repositories/Resume-Cover-Letter/src/Lawrence_Tsai_Resume.tex:110: LaTeX Error: Something's wrong--perhaps a missing \item.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.108 \end{rSubsection}
+l.110 \end{rSubsection}
                        
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-/Users/larrytsai/Repositories/Resume-Cover-Letter/src/Lawrence_Tsai_Resume.tex:109: LaTeX Error: \begin{list} on input line 98 ended by \end{rsection}.
+/Users/larrytsai/Repositories/Resume-Cover-Letter/src/Lawrence_Tsai_Resume.tex:111: LaTeX Error: \begin{list} on input line 100 ended by \end{rsection}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.109 \end{rsection}
+l.111 \end{rsection}
                     
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-/Users/larrytsai/Repositories/Resume-Cover-Letter/src/Lawrence_Tsai_Resume.tex:163: LaTeX Error: \begin{list} on input line 111 ended by \end{document}.
+/Users/larrytsai/Repositories/Resume-Cover-Letter/src/Lawrence_Tsai_Resume.tex:164: LaTeX Error: \begin{list} on input line 113 ended by \end{document}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.163 \end{document}
+l.164 \end{document}
                     
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -417,9 +417,9 @@ Package rerunfilecheck Info: Checksums for `Lawrence_Tsai_Resume.out':
  )
 (\end occurred inside a group at level 3)
 
-### semi simple group (level 3) entered at line 111 (\begingroup)
-### semi simple group (level 2) entered at line 111 (\begingroup)
-### semi simple group (level 1) entered at line 98 (\begingroup)
+### semi simple group (level 3) entered at line 113 (\begingroup)
+### semi simple group (level 2) entered at line 113 (\begingroup)
+### semi simple group (level 1) entered at line 100 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
  9234 strings out of 478268
