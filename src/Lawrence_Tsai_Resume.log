@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.6.22)  2 SEP 2022 03:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.6.22)  30 SEP 2022 02:53
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -330,74 +330,74 @@ Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-/Users/larrytsai/Repositories/Resume-Cover-Letter/src/Lawrence_Tsai_Resume.tex:87: LaTeX Error: Something's wrong--perhaps a missing \item.
+/Users/larrytsai/Repositories/Resume-Cover-Letter/src/Lawrence_Tsai_Resume.tex:85: LaTeX Error: Something's wrong--perhaps a missing \item.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.87 \end{rSubsection}
+l.85 \end{rSubsection}
                       
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-/Users/larrytsai/Repositories/Resume-Cover-Letter/src/Lawrence_Tsai_Resume.tex:92: LaTeX Error: Something's wrong--perhaps a missing \item.
+/Users/larrytsai/Repositories/Resume-Cover-Letter/src/Lawrence_Tsai_Resume.tex:90: LaTeX Error: Something's wrong--perhaps a missing \item.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.92 \end{rSubsection}
+l.90 \end{rSubsection}
                       
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-/Users/larrytsai/Repositories/Resume-Cover-Letter/src/Lawrence_Tsai_Resume.tex:105: LaTeX Error: Something's wrong--perhaps a missing \item.
+/Users/larrytsai/Repositories/Resume-Cover-Letter/src/Lawrence_Tsai_Resume.tex:95: LaTeX Error: Something's wrong--perhaps a missing \item.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.105 \end{rSubsection}
+l.95 \end{rSubsection}
+                      
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+/Users/larrytsai/Repositories/Resume-Cover-Letter/src/Lawrence_Tsai_Resume.tex:108: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.108 \end{rSubsection}
                        
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-/Users/larrytsai/Repositories/Resume-Cover-Letter/src/Lawrence_Tsai_Resume.tex:106: LaTeX Error: \begin{list} on input line 95 ended by \end{rsection}.
+/Users/larrytsai/Repositories/Resume-Cover-Letter/src/Lawrence_Tsai_Resume.tex:109: LaTeX Error: \begin{list} on input line 98 ended by \end{rsection}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.106 \end{rsection}
+l.109 \end{rsection}
                     
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-/Users/larrytsai/Repositories/Resume-Cover-Letter/src/Lawrence_Tsai_Resume.tex:118: LaTeX Error: Something's wrong--perhaps a missing \item.
+/Users/larrytsai/Repositories/Resume-Cover-Letter/src/Lawrence_Tsai_Resume.tex:163: LaTeX Error: \begin{list} on input line 111 ended by \end{document}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.118 \end{rSubsection}
-                       
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-/Users/larrytsai/Repositories/Resume-Cover-Letter/src/Lawrence_Tsai_Resume.tex:160: LaTeX Error: \begin{list} on input line 108 ended by \end{document}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.160 \end{document}
+l.163 \end{document}
                     
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -417,20 +417,20 @@ Package rerunfilecheck Info: Checksums for `Lawrence_Tsai_Resume.out':
  )
 (\end occurred inside a group at level 3)
 
-### semi simple group (level 3) entered at line 108 (\begingroup)
-### semi simple group (level 2) entered at line 108 (\begingroup)
-### semi simple group (level 1) entered at line 95 (\begingroup)
+### semi simple group (level 3) entered at line 111 (\begingroup)
+### semi simple group (level 2) entered at line 111 (\begingroup)
+### semi simple group (level 1) entered at line 98 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
  9234 strings out of 478268
  146683 string characters out of 5846347
- 464190 words of memory out of 5000000
+ 463190 words of memory out of 5000000
  27341 multiletter control sequences out of 15000+600000
  472986 words of font info for 40 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  70i,9n,76p,646b,411s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb>
-Output written on Lawrence_Tsai_Resume.pdf (1 page, 96373 bytes).
+Output written on Lawrence_Tsai_Resume.pdf (1 page, 96392 bytes).
 PDF statistics:
  55 PDF objects out of 1000 (max. 8388607)
  39 compressed objects within 1 object stream
