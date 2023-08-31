@@ -1,6 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1693494160 "/Users/larrytsai/Repositories/Resume-Cover-Letter/src/Lawrence_Tsai_Cover_Letter.tex" "Lawrence_Tsai_Cover_Letter.pdf" "Lawrence_Tsai_Cover_Letter" 1693494160
-  "/Users/larrytsai/Repositories/Resume-Cover-Letter/src/Lawrence_Tsai_Cover_Letter.tex" 1693494160 14184 0e725036d8f152e2ff01dfe3f63b1c55 ""
+["pdflatex"] 1693496040 "/Users/larrytsai/Repositories/Resume-Cover-Letter/src/Lawrence_Tsai_Cover_Letter.tex" "Lawrence_Tsai_Cover_Letter.pdf" "Lawrence_Tsai_Cover_Letter" 1693496041
+  "/Users/larrytsai/Repositories/Resume-Cover-Letter/src/Lawrence_Tsai_Cover_Letter.tex" 1693496040 14162 c9dabd0069b9cf9da4332732f3ace479 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/jknappen/ec/tcbx1000.tfm" 1136768653 1536 30fde759286ded71559881bfa2623939 ""
@@ -76,9 +76,9 @@
   "/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1647878959 4410336 7d30a02e9fa9a16d7d1f8d037ba69641 ""
   "/usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1655933116 2826443 1b979fa955ec18bc3e2f12e8e3c20e4d ""
   "/usr/local/texlive/2022/texmf.cnf" 1647878952 577 209b46be99c9075fd74d4c0369380e8c ""
-  "Lawrence_Tsai_Cover_Letter.aux" 1693494160 686 4ce905362b6645b598ea182482e9aeed "pdflatex"
+  "Lawrence_Tsai_Cover_Letter.aux" 1693496041 686 e6bf9f11827e1eae1d85e75b99e0a183 "pdflatex"
   "Lawrence_Tsai_Cover_Letter.out" 0 -1 0 "pdflatex"
-  "Lawrence_Tsai_Cover_Letter.tex" 1693494160 14184 0e725036d8f152e2ff01dfe3f63b1c55 ""
+  "Lawrence_Tsai_Cover_Letter.tex" 1693496040 14162 c9dabd0069b9cf9da4332732f3ace479 ""
   (generated)
   "Lawrence_Tsai_Cover_Letter.aux"
   "Lawrence_Tsai_Cover_Letter.log"
